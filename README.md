@@ -1,1 +1,6 @@
 # CodingTest
+
+programmers/
+
+CodingTest
+CodingBasicTraining
