@@ -1,7 +1,7 @@
-# CodingTest
+# CodingTest 
 
-programmers/
+path
 
-CodingTest
+programmers/코딩테스트입문/            
 
-CodingBasicTraining
+programmers/코딩기초트레이닝/       
