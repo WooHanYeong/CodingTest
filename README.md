@@ -1,7 +1,6 @@
 # CodingTest 
 
-path
+8월30일 3sol
+8.31일  4sol
 
-programmers/코딩테스트입문/            
 
-programmers/코딩기초트레이닝/       
